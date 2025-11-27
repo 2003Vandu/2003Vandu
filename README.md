@@ -3,9 +3,16 @@
 I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring Boot, JavaScript, React, and Bootstrap. I focus on building scalable, user-friendly applications and simplifying complex problems into clean, lasting solutions. My internship at Army Workshop 512 (ASA Core Mechanical Training) trained me in a high-pressure, disciplined environment where accuracy, resilience, and critical thinking were essential. This mindset now drives the way I work. Beyond coding, I express myself through poetry and shayari, blending creativity with logic to craft impactful solutions—both for machines and for people.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:your@email.com)
-
+<a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
