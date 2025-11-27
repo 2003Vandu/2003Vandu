@@ -53,4 +53,10 @@ I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/>
+  </a>
+  <a href="https://railway.app/" target="_blank" rel="noreferrer">
+    <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="40" height="40"/>
+  </a>
 </p>
