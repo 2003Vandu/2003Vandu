@@ -3,15 +3,14 @@
 I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring Boot, JavaScript, React, and Bootstrap. I focus on building scalable, user-friendly applications and simplifying complex problems into clean, lasting solutions. My internship at Army Workshop 512 (ASA Core Mechanical Training) trained me in a high-pressure, disciplined environment where accuracy, resilience, and critical thinking were essential. This mindset now drives the way I work. Beyond coding, I express myself through poetry and shayari, blending creativity with logic to craft impactful solutions—both for machines and for people.
 
 ### Connect with me:
-<a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bouali-ali-33026072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4836701/bouali-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/bouali-ali" height="30" width="40" /></a>
+<a href="https://instagram.com/alibou_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/boualiali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a>
+<a href="https://discord.gg/Xcw6JyptqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xcw6JyptqA" height="30" width="40" /></a>
+</p>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
