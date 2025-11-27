@@ -58,10 +58,25 @@ I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://brandfetch.com/render.com/logo.svg" alt="Render" width="40" height="40"/>
-  </a>
   <a href="https://railway.app/" target="_blank" rel="noreferrer">
     <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="40" height="40"/>
   </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  
+  <!-- DaisyUI (built on Tailwind) -->
+  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/73879334?s=200&v=4" alt="DaisyUI" width="40" height="40"/>
+  </a>
+  
+  <!-- Chakra UI -->
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://brandfetch.com/render.com/logo.svg" alt="Render" width="40" height="40"/>
+  </a>
+
 </p>
