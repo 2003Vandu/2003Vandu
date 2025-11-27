@@ -4,8 +4,8 @@ I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bouali-ali-33026072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Xcw6JyptqA" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vandesh-ghodke-b832b730b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
+<a href="https://github.com/2003Vandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Xcw6JyptqA" height="30" width="40" /></a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
