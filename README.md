@@ -1,7 +1,3 @@
 ##                                  Hi there 👋 I'm Vandesh Ghodke
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+## About me
+I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring Boot, JavaScript, React, and Bootstrap. I focus on building scalable, user-friendly applications and simplifying complex problems into clean, lasting solutions. My internship at Army Workshop 512 (ASA Core Mechanical Training) trained me in a high-pressure, disciplined environment where accuracy, resilience, and critical thinking were essential. This mindset now drives the way I work. Beyond coding, I express myself through poetry and shayari, blending creativity with logic to craft impactful solutions—both for machines and for people.
