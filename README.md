@@ -5,9 +5,6 @@ I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bouali-ali-33026072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4836701/bouali-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/bouali-ali" height="30" width="40" /></a>
-<a href="https://instagram.com/alibou_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boualiali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Xcw6JyptqA" height="30" width="40" /></a>
 </p>
   
