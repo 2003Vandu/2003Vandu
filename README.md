@@ -10,6 +10,6 @@ I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Angular](https://angular.dev/)
+![Angular](https://camo.githubusercontent.com/9206dda453f4d2c98bff6f1ca3d116abe1ece46e024da5e000c17f31a7ec2b68/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667)
 
 https://angular.dev/
