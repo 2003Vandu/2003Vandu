@@ -1,13 +1,14 @@
 ##                                  Hi there 👋 I'm Vandesh Ghodke
 ## About me
 I am a Full Stack Developer specializing in building high-performance, scalable applications. My approach blends technical precision with a creative mindset, transforming complex requirements into clean, production-ready code.
+Intern At Indian Army 512 Core and Mechanical Engineer
 
 The Technical Core
-Backend: Java, Spring Boot (Microservices, REST APIs), Spring AI.
+ * Backend: Java, Spring Boot (Microservices, REST APIs), Spring AI.
 
-Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+ * Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
 
-Data & Intelligence: SQL, MongoDB, LLM Integration (DeepSeek, Gemini).
+ * Data & Intelligence: SQL, MongoDB, LLM Integration (DeepSeek, Gemini).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
