@@ -10,7 +10,7 @@ I am a Full Stack Developer specializing in building high-performance, scalable 
 The Technical Core
  * Backend: Java, Spring Boot (Microservices, REST APIs), Spring AI.
 
- * Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+ * Frontend: React, JavaScript , HTML5, CSS3, Bootstrap.
 
  * Data & Intelligence: SQL, MongoDB, LLM Integration (DeepSeek, Gemini).
 
