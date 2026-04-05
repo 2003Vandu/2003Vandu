@@ -1,7 +1,9 @@
 ##                                  Hi there 👋 I'm Vandesh Ghodke
 ## About me
 I am a Full Stack Developer specializing in building high-performance, scalable applications. My approach blends technical precision with a creative mindset, transforming complex requirements into clean, production-ready code.
-Intern At Indian Army 512 Core and Mechanical Engineer
+
+ * Intern At Indian Army 512 Core and Mechanical Engineer.
+ * Intern At VM3 Tech Solution as Java Developer.
 
 The Technical Core
  * Backend: Java, Spring Boot (Microservices, REST APIs), Spring AI.
