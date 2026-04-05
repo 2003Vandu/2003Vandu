@@ -1,10 +1,13 @@
 ##                                  Hi there 👋 I'm Vandesh Ghodke
 ## About me
-I’m Vandesh Ghodke, a Full Stack Developer skilled in HTML, CSS, Java, Spring Boot, JavaScript, React, and Bootstrap. I focus on building scalable, user-friendly applications and simplifying complex problems into clean, lasting solutions.
+I am a Full Stack Developer specializing in building high-performance, scalable applications. My approach blends technical precision with a creative mindset, transforming complex requirements into clean, production-ready code.
 
-My internship at Army Workshop 512 (ASA Core Mechanical Training) trained me in a high-pressure, disciplined environment where accuracy, resilience, and critical thinking were essential. 
+The Technical Core
+Backend: Java, Spring Boot (Microservices, REST APIs), Spring AI.
 
-This mindset now drives the way I work. Beyond coding, I express myself through poetry and shayari, blending creativity with logic to craft impactful solutions—both for machines and for people.
+Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+
+Data & Intelligence: SQL, MongoDB, LLM Integration (DeepSeek, Gemini).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
