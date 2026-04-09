@@ -12,7 +12,9 @@ The Technical Core
 
  * Frontend: React, JavaScript , HTML5, CSS3, Bootstrap.
 
- * Data & Intelligence: SQL, MongoDB, LLM Integration (DeepSeek, Gemini).
+ * DataBase: MySQL, MongoDB.
+   
+ * Intelligence: LLM Integration (DeepSeek, Gemini), RAG.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
