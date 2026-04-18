@@ -21,7 +21,10 @@ A Full Stack Developer specializing in building high-performance, scalable appli
 
 ### 🤝 Connect with me
 <p >
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vandesh Ghodke LinkedIn" height="30" width="40" /></a><a href="https://github.com/2003Vandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Vandesh Ghodke GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vandesh Ghodke LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/2003Vandu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Vandesh Ghodke GitHub" height="30" width="40" /></a>
 </p>
 
 ---
