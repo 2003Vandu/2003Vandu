@@ -20,7 +20,7 @@ A Full Stack Developer specializing in building high-performance, scalable appli
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vandesh-ghodke-b832b730b)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vandesh-ghodke-b832b730b/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-1A4730?style=flat-square&logo=github&logoColor=white)](https://github.com/2003Vandu)
 
 ---
